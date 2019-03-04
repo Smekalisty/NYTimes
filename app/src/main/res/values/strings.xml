@@ -1,0 +1,7 @@
+<resources>
+    <string name="application_name">NYTimes</string>
+    <string name="an_error_has_occurred">An error has occurred</string>
+    <string name="no_posts_time_to_work">No posts. Time to work</string>
+    <string name="probably_no_connection">Probably no connection</string>
+    <string name="open_url">Open url</string>
+</resources>
